@@ -1,0 +1,127 @@
+/* General Styles */
+body {
+    background-color: #f8f9fa; /* Light gray background */
+    font-family: 'Arial', sans-serif;
+}
+
+/* Container Styling */
+.container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.container:hover {
+    transform: scale(1.02);
+}
+
+/* Card Styling */
+.card {
+    border: none;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.card:hover {
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.15);
+}
+
+/* Form Input Styling */
+.form-control {
+    border-radius: 8px;
+    transition: border 0.3s ease-in-out;
+}
+
+.form-control:focus {
+    border-color: #007bff;
+    box-shadow: 0px 0px 8px rgba(0, 123, 255, 0.5);
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    border-radius: 8px;
+    transition: background 0.3s ease-in-out;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border: none;
+    border-radius: 8px;
+    transition: background 0.3s ease-in-out;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    border: none;
+    border-radius: 8px;
+    transition: background 0.3s ease-in-out;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+}
+
+/* Progress Bar */
+.progress {
+    height: 12px;
+    border-radius: 10px;
+    transition: width 0.5s ease-in-out;
+}
+
+.progress-bar {
+    background-color: #007bff;
+}
+
+/* Spinner Styling */
+.spinner-border {
+    color: #007bff;
+    animation: spin 1s linear infinite;
+}
+
+/* List Group Item */
+.list-group-item {
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+}
+
+.list-group-item:hover {
+    background-color: #f1f1f1;
+}
+
+/* Key Rendering Animation */
+/* Spinner Styling */
+.spinner-border {
+    color: #007bff;
+    width: 3rem;  /* Adjust size */
+    height: 3rem; /* Adjust size */
+    border-width: 0.4em; /* Adjust thickness */
+    animation: spin 1s linear infinite;
+}
+
+/* Spinner Animation */
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* Other styles remain the same */
+
+
+.rendered-item {
+    animation: fadeIn 0.5s ease-in-out;
+}

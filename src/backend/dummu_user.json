@@ -1,0 +1,62 @@
+[
+    {
+      "username": "john_doe",
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "verification_code": "123456"
+    },
+    {
+      "username": "jane_smith",
+      "email": "jane.smith@example.com",
+      "password": "securepass",
+      "verification_code": "654321"
+    },
+    {
+      "username": "alice_wonder",
+      "email": "alice.wonder@example.com",
+      "password": "alice1234",
+      "verification_code": "987654"
+    },
+    {
+      "username": "bob_builder",
+      "email": "bob.builder@example.com",
+      "password": "bobthebuilder",
+      "verification_code": "456789"
+    },
+    {
+      "username": "charlie_brown",
+      "email": "charlie.brown@example.com",
+      "password": "charlie123",
+      "verification_code": "112233"
+    },
+    {
+      "username": "diana_prince",
+      "email": "diana.prince@example.com",
+      "password": "wonderwoman",
+      "verification_code": "445566"
+    },
+    {
+      "username": "bruce_wayne",
+      "email": "bruce.wayne@example.com",
+      "password": "batman123",
+      "verification_code": "778899"
+    },
+    {
+      "username": "clark_kent",
+      "email": "clark.kent@example.com",
+      "password": "superman",
+      "verification_code": "998877"
+    },
+    {
+      "username": "peter_parker",
+      "email": "peter.parker@example.com",
+      "password": "spiderman",
+      "verification_code": "334455"
+    },
+    {
+      "username": "tony_stark",
+      "email": "tony.stark@example.com",
+      "password": "ironman",
+      "verification_code": "667788"
+    }
+  ]

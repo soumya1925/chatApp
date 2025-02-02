@@ -1,0 +1,102 @@
+{
+    "companyName": "Acme Corporation",
+    "companyWebsite": "www.acmecorp.com",
+    "webpages": [
+      {
+        "url": "www.acmecorp.com/about",
+        "pageTitle": "About Us",
+        "data": {
+          "overview": "Acme Corporation is a leading innovator in technology solutions, specializing in software development and cloud services.",
+          "mission": "To empower businesses with cutting-edge technology that drives growth and efficiency.",
+          "values": ["Innovation", "Integrity", "Customer Focus", "Teamwork"],
+          "foundingYear": 1995,
+          "location": "Silicon Valley, CA"
+        }
+      },
+      {
+        "url": "www.acmecorp.com/products",
+        "pageTitle": "Our Products",
+        "data": {
+          "productList": [
+            {
+              "name": "Acme Cloud Platform",
+              "description": "A comprehensive cloud solution for businesses of all sizes.",
+              "price": "$50/month",
+              "features": ["Scalable storage", "Secure data management", "24/7 support"]
+            },
+            {
+              "name": "Acme Software Suite",
+              "description": "A suite of productivity tools designed to streamline workflows.",
+              "price": "$20/month",
+              "features": ["Word processing", "Spreadsheets", "Presentation software"]
+            }
+          ]
+        }
+      },
+      {
+        "url": "www.acmecorp.com/services",
+        "pageTitle": "Our Services",
+        "data": {
+          "serviceList": [
+            {
+              "name": "Software Development",
+              "description": "Custom software development tailored to your specific needs."
+            },
+            {
+              "name": "Cloud Consulting",
+              "description": "Expert guidance on migrating to the cloud and optimizing your cloud infrastructure."
+            }
+          ]
+        }
+      },
+      {
+        "url": "www.acmecorp.com/careers",
+        "pageTitle": "Careers",
+        "data": {
+          "jobOpenings": [
+            {
+              "title": "Software Engineer",
+              "location": "New York",
+              "requirements": ["Bachelor's degree in Computer Science", "5+ years of experience"],
+               "link":"www.acmecorp.com/careers/software-engineer"
+            },
+            {
+              "title": "Cloud Architect",
+              "location": "San Francisco",
+              "requirements": ["AWS Certified", "3+ years of experience"],
+              "link":"www.acmecorp.com/careers/cloud-architect"
+            }
+          ]
+        }
+      },
+      {
+        "url": "www.acmecorp.com/contact",
+        "pageTitle": "Contact Us",
+        "data": {
+          "address": "123 Main Street, Anytown, CA 91234",
+          "phone": "(555) 555-5555",
+          "email": "info@acmecorp.com"
+        }
+      },
+      {
+        "url": "www.acmecorp.com/blog",
+        "pageTitle": "Blog",
+        "data": {
+          "recentPosts":[
+            {
+              "title": "The Future of Cloud Computing",
+              "author": "John Doe",
+              "date":"2024-07-27",
+              "link":"www.acmecorp.com/blog/future-cloud-computing"
+            },
+             {
+              "title": "Top 5 Software Development Trends",
+              "author": "Jane Smith",
+              "date":"2024-07-26",
+               "link":"www.acmecorp.com/blog/software-trends"
+            }
+          ]
+        }
+      }
+    ]
+  }

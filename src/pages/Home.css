@@ -1,0 +1,19 @@
+.form-container {
+    max-width: 500px;
+    margin: auto;
+    transition: all 0.3s ease-in-out;
+}
+
+.google-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    background-color: #db4437;
+    color: white;
+    border: none;
+}
+
+.google-btn:hover {
+    background-color: #c1351d;
+}
