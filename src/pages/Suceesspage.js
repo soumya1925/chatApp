@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { Button, Card, Alert, Container, Row, Col } from 'react-bootstrap';
+import { Button, Card, Container } from 'react-bootstrap';
 import Confetti from 'react-confetti'; 
 import { FaFacebook, FaTwitter, FaLinkedin, FaInstagram } from 'react-icons/fa'; 
 
