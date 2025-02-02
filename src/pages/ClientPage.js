@@ -12,8 +12,8 @@ const ClientPage = () => {
     return (
         <div>
             {/* Navbar */}
-            <Navbar bg="dark" variant="dark" expand="lg">
-                <Container>
+            <Navbar bg="" variant="" expand="lg">
+                <Container bg="dark">
                     <Navbar.Brand href="#home">Acme Corporation</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
